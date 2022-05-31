@@ -1,4 +1,4 @@
-# Career Foundry Achievement 3
+# Career Foundry Achievement 6
 
 ## Achievement 6 Project: Labor Force Participation Rate Project
 
