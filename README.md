@@ -9,5 +9,6 @@ The economic gender gap refers to the systematic differences in the outcomes tha
 https://public.tableau.com/app/profile/danielle.copeland/viz/OpenDataProject/Story1?publish=yes
 
 ## In this repo:
-● World Development Indicator Data, both original and prepared files<br>
+● World Development Indicator Data source - https://databank.worldbank.org/source/world-development-indicators/preview/on<br> 
+● World Development Indicator Data prepared files<br>
 ● Scripts
